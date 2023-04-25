@@ -20,9 +20,9 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -Sales-and-Operation-Sales-Project           |  -             | https://github.com/IsaacSarpong/Sales-and-Operation-Sales-Project     |
-| 2 |  -Shifting-Images             |  -             | https://github.com/IsaacSarpong/Shifting-Images      |
-| 3 |  -Mortgage-calculator           |  -             | https://github.com/IsaacSarpong/Mortgage-calculator     |
+| 1 |  -Sales-and-Operation-Sales-Project           |  -  This project simulates a Sales and Operations Planning (S&OP) process using the zero-stock level strategy. The S&OP process aims to balance demand and supply by aligning sales forecasting, demand planning, production planning, and inventory planning.           | https://github.com/IsaacSarpong/Sales-and-Operation-Sales-Project     |
+| 2 |  -Shifting-Images             |  -   In this project, we will be shifting a digit image up, down, left, and right using Python. We will use the OpenCV library for image processing and manipulation.          | https://github.com/IsaacSarpong/Shifting-Images      |
+| 3 |  -Mortgage-calculator           |  - Mortgage calculators are automated tools that enable users to determine the financial implications of changes in one or more variables in a mortgage financing arrangement. Mortgage calculators are used by consumers to determine monthly repayments, and by mortgage providers to determine the financial suitability of a home loan applicant.            | https://github.com/IsaacSarpong/Mortgage-calculator     |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
